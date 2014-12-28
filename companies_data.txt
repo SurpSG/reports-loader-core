@@ -1,0 +1,3 @@
+BHP Billiton; www.url.com
+Rio Tinto; www.url2.com
+Anglo American; www.url3.com
